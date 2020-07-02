@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rohan Karnawat
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student Research at USC Vision Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Image Processing
+- Computer Vision
+- Deep Learning
+- Data Science Research 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science
+    institution: University of Southern California
+    year: 2021
+  - course: Bachelor of Technology in Computer Science Engineering with Honors in Computer Vision
+    institution: International Institute of Information Technology, Hyderabad
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +45,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/rohan_kay
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hensden
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +60,15 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Scince grad student at USC Viterbi (Batch of 2021). Currently, I am working under Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Student Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have previously worked as a Research Engineer in Samsung Research Institute, in the Advanced Technology Lab on mainly  three projects: Human-Object Interaction, AI Gallery and Iris-based Biometrics and Authentication. 
+
+I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering with an Honors from Computer Vision Institute of Technology under [Dr Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/). I have also been a Teaching Assistant for Computer Vision, Digital Signal Analysis and Statistical Methods in AI (Intro to Machine Learning).
+
+I am actively looking for fulltime Software Engineering and Research positions starting in May 2021 - July 2021. 
