@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student Research at USC Vision Lab
+role: Graduate Student Researcher
 
 # Organizations/Affiliations
 organizations:
