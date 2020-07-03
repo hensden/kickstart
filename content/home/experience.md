@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "Bangalore, India"
   location = ""
   date_start = "Jun 2018"
-  date_end = "August 2019"
+  date_end = "Aug 2019"
   description = """Undertook experiments for extending Human object interaction in images to short videos. Improved feature extraction and instance segmentation with Deformable Convolution for the SRR module, increasing mAP scores by 6%. Managed weekly releases for flagship mobile devices (Agile). Responsible for image post-processing, model updates and error reporting. Collaborated with a team of 3 for completion of Samsung’s IRIS Make-for-India government project for quick, accurate iris based verification of citizens. Implemented a reflection based blur detection engine, performed quality testing and handled code analysis.
   Responsibilities included:
   
@@ -42,14 +42,5 @@ date_format = "Jan 2006"
   * Testing (Software and Field)
   * Deployment Support
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
