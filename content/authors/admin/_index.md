@@ -72,8 +72,8 @@ email: ""
 
 I am a Computer Scince grad student at USC Viterbi (Batch of 2021). Currently, I am working under Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Student Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
 
-I have previously worked as a Research Engineer in Samsung Research Institute, in the Advanced Technology Lab on mainly  three projects: Human-Object Interaction, AI Gallery and Iris-based Biometrics and Authentication. 
+I have previously worked as a Research Engineer in Samsung Research Institute, in the Advanced Technology Lab. I worked on three projects: Human-Object Interaction, AI Gallery and Iris-based Biometrics and Authentication. 
 
-I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering with an Honors from Computer Vision Institute of Technology under [Dr Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/). I have also been a Teaching Assistant for Computer Vision, Digital Signal Analysis and Statistical Methods in AI (Intro to Machine Learning).
+I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering with an Honors from Computer Vision Institute of Technology under [Dr Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/). I have also been a Teaching Assistant for Computer Vision, Digital Signals Analysis and Statistical Methods in AI (Intro to Machine Learning).
 
-I am actively looking for fulltime Software Engineering and Research positions starting in May 2021 - July 2021. 
+_I am actively looking for fulltime Software Engineering and Research positions starting in May 2021 - July 2021. _
