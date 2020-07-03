@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,18 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Student Researcher"
+  company = "USC IRIS Vision Lab"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Los Angeles, California"
+  date_start = "Mar 2020"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Currently researching on methods to learn robust representations of images that can be defended against adversarially attacked / perturbed traffic sign and satellite images."""
+
+
+[[experience]]
+  title = "Research Engineer"
+  company = "Samsung"
+  company_url = "Bangalore, India"
+  location = ""
+  date_start = "Jun 2018"
+  date_end = "August 2019"
+  description = """Undertook experiments for extending Human object interaction in images to short videos. Improved feature extraction and instance segmentation with Deformable Convolution for the SRR module, increasing mAP scores by 6%. Managed weekly releases for flagship mobile devices (Agile). Responsible for image post-processing, model updates and error reporting. Collaborated with a team of 3 for completion of Samsung’s IRIS Make-for-India government project for quick, accurate iris based verification of citizens. Implemented a reflection based blur detection engine, performed quality testing and handled code analysis.
+  Responsibilities included:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developing Proof of Concept (Research)
+  * Handling Releases
+  * Testing (Software and Field)
+  * Deployment Support
   """
 
 [[experience]]
