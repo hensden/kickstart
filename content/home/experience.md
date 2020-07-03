@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "USC IRIS Vision Lab"
   company_url = ""
   location = "Los Angeles, California"
-  date_start = "2017-01-01"
+  date_start = "2020-03-01"
   date_end = ""
   description = """Currently researching on methods to learn robust representations of images that can be defended against adversarially attacked / perturbed traffic sign and satellite images."""
 
@@ -31,14 +31,12 @@ date_format = "Jan 2006"
   company = "Samsung"
   company_url = "Bangalore, India"
   location = ""
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Undertook experiments for extending Human object interaction in images to short videos. Improved feature extraction and instance segmentation with Deformable Convolution for the SRR module, increasing mAP scores by 6%. Managed weekly releases for flagship mobile devices (Agile). Responsible for image post-processing, model updates and error reporting. Collaborated with a team of 3 for completion of Samsung’s IRIS Make-for-India government project for quick, accurate iris based verification of citizens. Implemented a reflection based blur detection engine, performed quality testing and handled code analysis.
-  Responsibilities included:
-  
-  * Developing Proof of Concept (Research)
-  * Handling Releases
-  * Testing (Software and Field)
-  * Deployment Support"""
+  date_start = "2018-06-01"
+  date_end = "2019-08-31"
+  description = """
+  - Extended human object interaction in images to short videos. Incorporated deformable convolution for semantic role recognition. 
+  - Managed weekly releases for flagship mobile devices by handling post-processing, model updates, and error reporting. 
+  - Collaborated with a team of 3 for commercialization of a government project for quick biometric based verification. Implemented a reflection based blur detection engine, performed quality testing and handled code analysis.
+  """
 
 +++
