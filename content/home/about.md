@@ -4,7 +4,6 @@ widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 active = true  
 weight = 1  
 
-title = "About Me"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
