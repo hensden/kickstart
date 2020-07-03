@@ -2,7 +2,7 @@
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 active = true  
-weight = 0  
+weight = 1  
 
 title = "About Me"
 
