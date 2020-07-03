@@ -7,9 +7,6 @@ weight = 3  # Order that this section will appear.
 
 title = "Technical Skills"
 subtitle = ""
-columns="2"
 
-a = b
-a = b
-a = b
+Hello World
 +++
