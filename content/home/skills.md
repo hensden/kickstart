@@ -9,5 +9,7 @@ title = "Technical Skills"
 subtitle = ""
 columns="2"
 
-sodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtf sodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofg= nposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofg= nposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtfsodfnsdkofgnposo g ndfgpodg npogfdna wpfoif piafhnnawpiftwphtf
+a = b
+a = b
+a = b
 +++
