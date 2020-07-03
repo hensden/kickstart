@@ -10,7 +10,6 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +21,7 @@ date_format = "Jan 2006"
   company = "USC IRIS Vision Lab"
   company_url = ""
   location = "Los Angeles, California"
-  date_start = "Mar 2020"
+  date_start = ""
   date_end = ""
   description = """Currently researching on methods to learn robust representations of images that can be defended against adversarially attacked / perturbed traffic sign and satellite images."""
 
@@ -32,8 +31,8 @@ date_format = "Jan 2006"
   company = "Samsung"
   company_url = "Bangalore, India"
   location = ""
-  date_start = "Jun 2018"
-  date_end = "Aug 2019"
+  date_start = ""
+  date_end = ""
   description = """Undertook experiments for extending Human object interaction in images to short videos. Improved feature extraction and instance segmentation with Deformable Convolution for the SRR module, increasing mAP scores by 6%. Managed weekly releases for flagship mobile devices (Agile). Responsible for image post-processing, model updates and error reporting. Collaborated with a team of 3 for completion of Samsung’s IRIS Make-for-India government project for quick, accurate iris based verification of citizens. Implemented a reflection based blur detection engine, performed quality testing and handled code analysis.
   Responsibilities included:
   
