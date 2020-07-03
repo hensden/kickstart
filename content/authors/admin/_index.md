@@ -21,17 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Image Processing
 - Computer Vision
-- Deep Learning
+- Artificial Intelligence
+- ML/DL
 - Data Science Research 
+- Software Engineering
 
 education:
   courses:
   - course: MS in Computer Science
-    institution: University of Southern California
+    institution: University of Southern California, Los Angeles
     year: 2021
-  - course: Bachelor of Technology in Computer Science Engineering with Honors in Computer Vision
+  - course: Bachelor of Technology with Honors in Computer Science Engineering
     institution: International Institute of Information Technology, Hyderabad
     year: 2018
 
@@ -42,13 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rkarnawa@usc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rohan_kay
 - icon: github
   icon_pack: fab
   link: https://github.com/hensden
+- icon: linkedin
+  inco-pack: fab
+  link: https://www.linkedin.com/in/rohan-karnawat/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
