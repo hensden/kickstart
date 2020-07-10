@@ -1,10 +1,10 @@
 +++
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
+title = "Projects"
 active = true  # Activate this widget? true/false
 weight = 9  # Order that this section will appear.
-title = "Projects"
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
