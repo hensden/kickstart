@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["c++"]`
-tags = ["c++"]
+tags = ["c"]
 
 # Project summary to display on homepage.
 summary = "Developed a multithreaded command-prompt shell and basic kernel in C, with piping and regex enabled."

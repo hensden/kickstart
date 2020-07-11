@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["image-processing", "computer-vision"]`
-tags = ["image-processing", "computer-vision", "python", "c++", "opencv"]
+tags = ["image-processing", "computer-vision", "python", "c", "opencv"]
 
 # Project summary to display on homepage.
 summary = "Images retargeting using the Patch-matching approach based on an approximate nearest neighbor algorithm and bidirectional similarity"
