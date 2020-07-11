@@ -61,7 +61,7 @@ subtitle = ""
  css_style = ""
  
  css_class = ""
-+++
+
 gallery_item:
   - album: gallery
     image: utt.jpg
@@ -70,3 +70,4 @@ gallery_item:
     image: garfield.jpg
     caption: Another caption
 <img src="https://raw.githubusercontent.com/hensden/kickstart/master/static/img/garfield.jpg" alt="Comic Strip Generation>
++++
