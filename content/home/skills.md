@@ -18,13 +18,13 @@ subtitle = ""
   icon = ""
   icon_pack = "fab"
   name = "**Languages**"
-  description = "C++ <br/> Python <br/> C <br/> HTML+CSS <br/> MySQL"
+  description = "C++ <br/> Python <br/> C <br/> HTML+CSS <br/> MySQL <br/> JavaScript"
   
 [[feature]]
   icon = ""
   icon_pack = "fas"
   name = "**Tools**"
-  description = "LaTeX <br/> Bash <br/> MATLAB <br/> Android<br/>Docker <br/> Angular JS"  
+  description = "LaTeX <br/> Bash <br/> MATLAB <br/> Android<br/>Docker <br/> Angular"  
   
 [[feature]]
   icon = ""
