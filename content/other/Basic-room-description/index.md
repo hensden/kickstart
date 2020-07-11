@@ -1,14 +1,13 @@
 +++
-title = "Comic Strip Generation"
+title = "Basic Room Description"
 date = 2020-07-09T03:11:19Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning", "computer-vision","gans","python","pytorch", "tensorflow"]
 
 # Project summary to display on homepage.
-summary = "An end-to-end model using Pix2Pix based C-GAN along with fine-tuned LSTM and experiments with VQA based joint embedding and InfoGAN to generate alternate endings to short Garfield comic strips"
+summary = "Worked on a Blind Assistance application that creates a caption describing common objects in a room, on capturing its photograph."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +18,7 @@ summary = "An end-to-end model using Pix2Pix based C-GAN along with fine-tuned L
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://medium.com/@neelansh5_9493/comic-strip-generation-794cb67bc79"
+external_link = "https://github.com/karpathy/neuraltalk2"
 
 # Links (optional).
 url_pdf = ""

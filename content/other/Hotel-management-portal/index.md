@@ -1,15 +1,13 @@
 +++
-title = "Video Summarizer"
-date = 2018-11-21T02:35:05Z
+title = "Hostel Management Portal"
+date = 2020-07-09T02:54:11Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["python","multimedia","image-processing","c++"]
 
 # Project summary to display on homepage.
-summary = "Created a interactive video synopsis player of a large directory various media that allows browsing and viewing"
-
+summary = "Multifunctional web application using the MVC framework of Web2py. " 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -19,7 +17,7 @@ summary = "Created a interactive video synopsis player of a large directory vari
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Video-Synopsis"
+external_link = "https://github.com/akdoV-tulosbA/New-Hostel"
 
 # Links (optional).
 url_pdf = ""

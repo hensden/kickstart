@@ -1,14 +1,14 @@
 +++
-title = "Adversarial Attack on Satellite Images"
-date = 2020-07-09T02:54:11Z
+title = "Encrypted File Transfer (Networks and Distributed Systems)"
+date = 2020-07-09T03:05:04Z
 draft = false
 
 # Tags: can be used for filtering projects.
-
-tags = ["computer-vision", "deep-learning","machine-learning","python","tensorflow","pytorch"]
+# Example: `tags = ["image-processing", "computer-vision"]`
 
 # Project summary to display on homepage.
-summary = "Using a targeted ans universal adversarial attack to misclassify satellite images of points of interest" 
+summary = "Implemented TCP and UDP protocol, packet capture, weighted fair queuing, scheduling algorithms and IP Lookup over intranet. Used socket programming for serialised and encrypted data transfer."
+
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -18,7 +18,7 @@ summary = "Using a targeted ans universal adversarial attack to misclassify sate
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Attacking-Satellite-Imagery"
+external_link = "https://github.com/hensden/cn-project"
 
 # Links (optional).
 url_pdf = ""

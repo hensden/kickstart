@@ -1,15 +1,14 @@
 +++
-title = "Content Aware Image Resizing"
-date = 2020-07-09T03:05:04Z
+title = ""
+date = 2020-07-09T02:54:11Z
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["image-processing", "computer-vision"]`
-tags = ["image-processing", "computer-vision", "python", "c++", "opencv"]
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["machine-learning", "signal-processing", "deep-learning", "cognitive-neuroscience", "python", "tensorflow"]
 
 # Project summary to display on homepage.
-summary = "Images retargeting using the Patch-matching approach based on an approximate nearest neighbor algorithm and bidirectional similarity"
-
+summary = "Extracted sentences of importance from CNN news articles to create a summary, using optimized unsupervised algorithms including Page rank and sequence learning with LSTM (Enc-Dec model). Compared the results with a preset abstractive summary using Pyrouge" 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -19,14 +18,14 @@ summary = "Images retargeting using the Patch-matching approach based on an appr
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Content-Aware-Image-Resizing"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
 url_code = ""
-url_dataset = "https://github.com/SaumyaRawat/SMAI-Project-38/tree/master/data"
+url_dataset = ""
 url_project = ""
-url_slides = "https://github.com/SaumyaRawat/SMAI-Project-38/blob/master/Presentation_Evaluation2.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 

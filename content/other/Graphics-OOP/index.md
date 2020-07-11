@@ -1,14 +1,14 @@
 +++
-title = "Ultimate TicTacToe AI Bot"
-date = 2020-07-09T02:54:11Z
+title = "Computer Graphics and OOP"
+date = 2018-11-21T02:35:05Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["artificial-intelligence", "python"]
 
 # Project summary to display on homepage.
-summary = "Developed an AI bot for  Ultimate Tic-Tac-Toe and came up with a special heuristic for scoring states selected by an alpha-beta pruned minimax tree" 
+summary = "Made a donkey kong simulator following concepts of Object Oriented Programming. Also developed a 3D maze runner game with a basic physics engine. Made a short movie with textures and voiceovers using OpenGL and Blender"
+
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -18,7 +18,7 @@ summary = "Developed an AI bot for  Ultimate Tic-Tac-Toe and came up with a spec
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Ultimate-Tic-Tac-Toe-Bot"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""

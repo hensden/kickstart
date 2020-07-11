@@ -1,24 +1,24 @@
 +++
-title = "Music Genre Detection and Mood Mapping"
+title = "Hair Stylist"
 date = 2020-07-09T02:54:11Z
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "signal-processing", "deep-learning", "cognitive-neuroscience", "python", "tensorflow"]
+
+tags = ["computer-vision", "deep-learning","machine-learning","python","tensorflow","pytorch"]
 
 # Project summary to display on homepage.
-summary = "Used unsupervised clustering and a supervised classification ensemble to classify songs into 5 genres based on Mel Spectral features. Includes a mood based music recommendation engine" 
+summary = "" 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "Built a mobile application that assisted in deciding which hair style is best suited for the frontal face photo that would be captured on camera. Face features were extracted using Haar cascade and an SVM was trained to capture details."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Music-Genre-Classification"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
