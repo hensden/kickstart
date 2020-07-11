@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning", "computer-vision"]
+tags = ["deep-learning", "computer-vision","gans","python","pytorch", "tensorflow"]
 
 # Project summary to display on homepage.
 summary = "An end-to-end model using Pix2Pix based C-GAN along with fine-tuned LSTM and experiments with VQA based joint embedding and InfoGAN to generate alternate endings to short Garfield comic strips"

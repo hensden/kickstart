@@ -1,14 +1,14 @@
 +++
-title = "Semantic Aware Colour Transfer"
-date = 2018-11-21T02:35:05Z
+title = "Content Aware Image Resizing"
+date = 2020-07-09T03:05:04Z
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "deep-learning", "sky segmentation", "sky replacement", "compositing", "appearance transfer", "semantic search","Image  processing","Computational photography"]
+# Example: `tags = ["image-processing", "computer-vision"]`
+tags = ["image-processing", "computer-vision", "python", "c++", "opencv"]
 
 # Project summary to display on homepage.
-summary = "Implementation of Tsai. et al, SIGGHRAPH16, model generates images with stylized skies by exploting visual semantics for sky editing and scene parsing. (Caffe, Matlab)"
+summary = "Images retargeting using the Patch-matching approach based on an approximate nearest neighbor algorithm and bidirectional similarity"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,20 +19,19 @@ summary = "Implementation of Tsai. et al, SIGGHRAPH16, model generates images wi
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/hensden/Content-Aware-Image-Resizing"
 
 # Links (optional).
-url_pdf = "https://github.com/SaumyaRawat/DIP-Project-Semantic-Aware-Colour-Transfer/blob/master/Report.pdf"
+url_pdf = ""
 url_code = ""
-url_dataset = "http://vllab.ucmerced.edu/ytsai/SIGGRAPH16/database.zip"
+url_dataset = "https://github.com/SaumyaRawat/SMAI-Project-38/tree/master/data"
 url_project = ""
-url_slides = ""
+url_slides = "https://github.com/SaumyaRawat/SMAI-Project-38/blob/master/Presentation_Evaluation2.pdf"
 url_video = ""
 url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{icon_pack = "fab", icon="github", name="Code", url = "https://github.com/SaumyaRawat/DIP-Project-Semantic-Aware-Colour-Transfer"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,14 +1,14 @@
 +++
-title = "Restaurant Revenue Prediction"
-date = 2018-11-21T03:05:04Z
+title = "Video Summarizer"
+date = 2018-11-21T02:35:05Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning","supervised learning","regression","data science"]
+tags = ["python","multimedia","image-processing","c++"]
 
 # Project summary to display on homepage.
-summary = " A Machine learning model to accurately predict the annual restaurant sales implemented using an ensemble method of Random Forests, Support Vector Regression and Ridge Regression. (Python)"
+summary = "Created a interactive video synopsis player of a large directory various media that allows browsing and viewing"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,20 +19,19 @@ summary = " A Machine learning model to accurately predict the annual restaurant
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/hensden/Video-Synopsis"
 
 # Links (optional).
 url_pdf = ""
 url_code = ""
-url_dataset = "https://github.com/SaumyaRawat/SMAI-Project-38/tree/master/data"
+url_dataset = ""
 url_project = ""
-url_slides = "https://github.com/SaumyaRawat/SMAI-Project-38/blob/master/Presentation_Evaluation2.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{icon_pack = "fab", icon="github", name="Code", url = "https://github.com/SaumyaRawat/SMAI-Project-38"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
