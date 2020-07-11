@@ -63,4 +63,3 @@ subtitle = ""
  css_class = ""
 
 +++
-{{< gallery >}}
