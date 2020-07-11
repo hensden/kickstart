@@ -1,14 +1,14 @@
 +++
-title = "Content Aware Image Resizing"
+title = "C Shell"
 date = 2020-07-09T03:05:04Z
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["image-processing", "computer-vision"]`
-tags = ["image-processing", "computer-vision", "python", "c++", "opencv"]
+# Example: `tags = ["c++"]`
+tags = ["c++"]
 
 # Project summary to display on homepage.
-summary = "Images retargeting using the Patch-matching approach based on an approximate nearest neighbor algorithm and bidirectional similarity"
+summary = "Developed a multithreaded command-prompt shell and basic kernel in C, with piping and regex enabled."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "Images retargeting using the Patch-matching approach based on an appr
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hensden/Content-Aware-Image-Resizing"
+external_link = "https://github.com/hensden/qsh"
 
 # Links (optional).
 url_pdf = ""
