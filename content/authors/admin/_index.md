@@ -70,7 +70,7 @@ email: "rkarnawa@usc.edu"
 # - Visitors
 ---
 
-I am a Computer Scince grad student at USC Viterbi (Batch of 2021). Currently, I am working under Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Student Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
+I am a Computer Science grad student at USC Viterbi (Batch of 2021). Currently, I am working under [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Student Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
 
 I have previously worked as a Research Engineer in Samsung Research Institute, in the Advanced Technology Lab. I worked on three projects: Human-Object Interaction, AI Gallery and Iris-based Biometrics and Authentication. 
 
