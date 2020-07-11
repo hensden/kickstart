@@ -65,7 +65,7 @@ on content publishing sites. Built a dashboard to facilitate tracking & traffic 
   location = "Hyderabad, India"
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = """Handled course content, assignments, and grading for the courses: Statistical Mathods in AI, Computer Vision and Digital Signals"""
+  description = """Handled course content, assignments, and grading for the courses: Statistical Methods in AI, Computer Vision and Digital Signals"""
 
 
 +++
