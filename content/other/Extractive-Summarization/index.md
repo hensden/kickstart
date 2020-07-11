@@ -1,11 +1,10 @@
 +++
-title = ""
+title = "Extractive Summarization"
 date = 2020-07-09T02:54:11Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "signal-processing", "deep-learning", "cognitive-neuroscience", "python", "tensorflow"]
 
 # Project summary to display on homepage.
 summary = "Extracted sentences of importance from CNN news articles to create a summary, using optimized unsupervised algorithms including Page rank and sequence learning with LSTM (Enc-Dec model). Compared the results with a preset abstractive summary using Pyrouge" 
