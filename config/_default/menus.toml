@@ -19,12 +19,12 @@
   weight = 30
 
 [[main]]
-  name = "Major Projects"
+  name = "Projects"
   url = "#projects"
   weight = 40
 
 [[main]]
-  name = "Course Projects"
+  name = "Coursework"
   url = "#other"
   weight = 50
 
