@@ -1,14 +1,14 @@
 +++
-title = "Extractive Summarization"
-date = 2018-11-21T03:11:19Z
+title = "Comic Strip Generation"
+date = 2020-07-09T03:11:19Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["natural language processing"]
+tags = ["deep-learning", "computer-vision"]
 
 # Project summary to display on homepage.
-summary = " Implemented unsupervised summarization LexRank: methods, TextRank, Centroid Summarization and trained RNN for Seq2Seq Encoder Decoder model. (Tensorflow, Python)"
+summary = "An end-to-end model using Pix2Pix based C-GAN along with fine-tuned LSTM and experiments with VQA based joint embedding and InfoGAN to generate alternate endings to short Garfield comic strips"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,13 +19,13 @@ summary = " Implemented unsupervised summarization LexRank: methods, TextRank, C
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://medium.com/@neelansh5_9493/comic-strip-generation-794cb67bc79"
 
 # Links (optional).
 url_pdf = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://github.com/hensden/Comic-Strip-Generation"
 url_slides = ""
 url_video = ""
 url_poster = ""
