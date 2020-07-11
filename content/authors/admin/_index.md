@@ -79,4 +79,4 @@ I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering
 <em>I am actively looking for fulltime Software Engineering and Research positions starting in May 2021 - July 2021. </em>
 
 
-{{< gallery album="project_images" >}}
+
