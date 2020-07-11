@@ -11,14 +11,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  gallery_item:
-  - album: gallery
-    image: utt.jpg
-    caption: A caption
- -  album: gallery
-    image: garfield.jpg
-    caption: Another caption
-
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -69,4 +62,11 @@ subtitle = ""
  
  css_class = ""
 +++
+gallery_item:
+  - album: gallery
+    image: utt.jpg
+    caption: A caption
+ -  album: gallery
+    image: garfield.jpg
+    caption: Another caption
 
