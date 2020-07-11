@@ -63,6 +63,9 @@ subtitle = ""
  css_class = ""
 
 +++
-Courses at USC Viterbi: Algorithms, Deep Learning and its Applications, Multimedia Design, Database Systems, Computer Vision < br/> 
-Technical Courses at IIIT-H: Digital Logic Processing, IT Workshop, Data Structures, Algorithms, Linear Algebra, Abstract Algebra, Group Theory, Basic Electronic Circuits, Operating Systems, Computer Systems Organization, Object Oriented Programming, Formal Methods, Engineering System Design, Digital Signals, Artificial Intelligence, Advanced Networks, Distributed Systems, Database Systems, Statistical Methods in AI, Image Processing, Computer Vision and Deep Learning, Information Security, Natural Language Processing, Optimization Methods, Music and Mind <br/>
-Non-Technical Courses at IIIT-H: Nanobiotechnology, Biomolecular Architecture, Modern Science, Human Rights, Ethics, East-West Greco-Indian History, Intro to Humanities
+- Courses at USC Viterbi: Algorithms, Deep Learning and its Applications, Multimedia Design, Database Systems, Computer Vision
+
+- Technical Courses at IIIT-H: Digital Logic Processing, IT Workshop, Data Structures, Algorithms, Linear Algebra, Abstract Algebra, Group Theory, Basic Electronic Circuits, Operating Systems, Computer Systems Organization, Object Oriented Programming, Formal Methods, Engineering System Design, Digital Signals, Artificial Intelligence, Advanced Networks, Distributed Systems, Database Systems, Statistical Methods in AI, Image Processing, Computer Vision and Deep Learning, Information Security, Natural Language Processing, Optimization Methods, Music and Mind 
+
+- Non-Technical Courses at IIIT-H: Nanobiotechnology, Biomolecular Architecture, Modern Science, Human Rights, Ethics, East-West Greco-Indian History, Intro to Humanities
+
