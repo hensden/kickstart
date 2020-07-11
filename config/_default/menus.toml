@@ -19,18 +19,23 @@
   weight = 30
 
 [[main]]
-  name = "Projects"
+  name = "Major Projects"
   url = "#projects"
   weight = 40
 
 [[main]]
+  name = "Course Projects"
+  url = "#other"
+  weight = 50
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "CV"
+   name = "Resume"
    url = "#"
-   weight = 60
+   weight = 70
