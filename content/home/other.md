@@ -1,4 +1,3 @@
-Courses taken: Computer Programming
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -64,3 +63,4 @@ subtitle = ""
  css_class = ""
 
 +++
+Courses taken: Computer Programming
