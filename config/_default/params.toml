@@ -113,8 +113,7 @@ email = "rkarnawa@usc.edu"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Tweet @ Me", link = "https://www.twitter.com/rohan_kay"},
   {icon = "facebook", icon_pack = "fab", name = "Message me", link = "https://www.facebook.com/KarnawatRohan"},
-  {icon = "linkedin", icon_pack = "fab", name = "Message me", link = "https://www.linkedin.com/in/rohan-karnawat/},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "linkedin", icon_pack = "fab", name = "Message me", link = "https://www.linkedin.com/in/rohan-karnawat/"}
   ]
 
 ############################
