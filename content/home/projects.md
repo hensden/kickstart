@@ -62,5 +62,5 @@ subtitle = ""
  
  css_class = ""
 
-<img src="https://raw.githubusercontent.com/hensden/kickstart/master/static/img/garfield.jpg" alt="Comic Strip Generation>
 +++
+{{gallery}}
