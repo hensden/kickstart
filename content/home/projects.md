@@ -61,6 +61,6 @@ subtitle = ""
  css_style = ""
  
  css_class = ""
-
+{{< gallery album="<project_images/>" >}}
 +++
 {{gallery}}
