@@ -23,8 +23,8 @@ external_link = "https://medium.com/@neelansh5_9493/comic-strip-generation-794cb
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/hensden/Cartoon-entity-extraction"
+url_dataset = "http://pt.jikos.cz/garfield/"
 url_project = "https://github.com/hensden/Comic-Strip-Generation"
 url_slides = ""
 url_video = ""

@@ -23,7 +23,7 @@ external_link = "https://github.com/hensden/Video-Synopsis"
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/hensden/Video-Synopsis"
 url_dataset = ""
 url_project = ""
 url_slides = ""

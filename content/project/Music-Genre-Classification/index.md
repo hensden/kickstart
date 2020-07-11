@@ -22,7 +22,7 @@ external_link = "https://github.com/hensden/Music-Genre-Classification"
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/hensden/Music-Genre-Classification"
 url_dataset = ""
 url_project = ""
 url_slides = ""

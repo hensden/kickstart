@@ -22,9 +22,9 @@ external_link = "https://github.com/hensden/Attacking-Satellite-Imagery"
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
+url_code = "https://github.com/hensden/Attacking-Satellite-Imagery"
+url_dataset = "https://www.tensorflow.org/datasets/catalog/resisc45"
+url_project = "https://github.com/IBM/adversarial-robustness-toolbox"
 url_slides = ""
 url_video = ""
 url_poster = ""
