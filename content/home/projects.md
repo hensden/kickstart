@@ -69,4 +69,4 @@ gallery_item:
  -  album: gallery
     image: garfield.jpg
     caption: Another caption
-!(Image)[https://raw.githubusercontent.com/hensden/kickstart/master/static/img/garfield.jpg]
+<img src="https://raw.githubusercontent.com/hensden/kickstart/master/static/img/garfield.jpg" alt="Comic Strip Generation>
