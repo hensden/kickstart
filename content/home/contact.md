@@ -16,5 +16,4 @@ subtitle = ""
 #   2: formspree.io
 email_form = 0
 +++
-karnawat.rohan18@gmail.com | rkarnawa@usc.edu
 
