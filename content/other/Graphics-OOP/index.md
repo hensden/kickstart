@@ -18,7 +18,7 @@ summary = "Made a donkey kong simulator following concepts of Object Oriented Pr
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/hensden/Canon-Ball"
 
 # Links (optional).
 url_pdf = ""
