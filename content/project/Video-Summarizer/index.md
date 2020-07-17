@@ -8,7 +8,7 @@ draft = false
 tags = ["python","multimedia","image-processing","c"]
 
 # Project summary to display on homepage.
-summary = "Created a interactive video synopsis player of a large directory various media that allows browsing and viewing"
+summary = "Created an interactive video synopsis player of a large directory various media that allows browsing and viewing"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
