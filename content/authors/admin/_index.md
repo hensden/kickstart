@@ -76,7 +76,7 @@ I have previously worked as a Research Engineer in Samsung Research Institute, i
 
 I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering with an Honors from Computer Vision Institute of Technology under [Dr Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/). I have also been a Teaching Assistant for Computer Vision, Digital Signals Analysis and Statistical Methods in AI (Intro to Machine Learning).
 
-<em>I am actively looking for fulltime Software Engineering and Research positions starting in May 2021 - July 2021. </em>
+<em>I am actively looking for full-time Software Engineering and Research positions in ML, CV, AI and Full Stack starting in May 2021 - July 2021. </em>
 
 
 
