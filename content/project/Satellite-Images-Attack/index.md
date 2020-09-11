@@ -8,7 +8,7 @@ draft = false
 tags = ["computer-vision", "deep-learning","machine-learning","python","tensorflow","pytorch"]
 
 # Project summary to display on homepage.
-summary = "Using a targeted ans universal adversarial attack to misclassify satellite images of points of interest" 
+summary = "Simulated a targeted and universal adversarial attack to misclassify satellite images of points of interest. Worked on building a robust defense against such attacks." 
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
