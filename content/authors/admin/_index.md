@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include Computer Vision, Image Processing, Data science, Software Dev and ML/DL. 
 
 interests:
-- Software Engineering and Full Stack Development
+- Software Engineering
+- Full Stack Development
 - Machine Learning
 - Computer Vision
 - Artificial Intelligence
