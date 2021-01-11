@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   company = "Samsung"
   company_url = "https://research.samsung.com/sri-b"
   location = "Bangalore, India"
-  date_start = "2017-01-01"
+  date_start = "2017-05-01"
   date_end = "2017-08-01"
   description = """Worked in the Intelligent Services department and was tasked with testing and comparative study of various deep learning libraries feasible for advanced speech recognition to port existing models on Kaldi."""
   
@@ -60,10 +60,10 @@ on content publishing sites. Built a dashboard to facilitate tracking & traffic 
 
   [[experience]]
   title = "Teaching Assistant"
-  company = "IIIT,H"
+  company = "IIIT Hyderabad"
   company_url = ""
   location = "Hyderabad, India"
-  date_start = "2017-08-01"
+  date_start = "2017-01-01"
   date_end = "2018-05-01"
   description = """Handled course content, assignments, and grading for the courses: Statistical Methods in AI, Computer Vision and Digital Signals"""
 
