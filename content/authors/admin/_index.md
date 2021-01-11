@@ -70,13 +70,15 @@ email: "rkarnawa@usc.edu"
 # - Visitors
 ---
 
-I am a Computer Science grad student at USC Viterbi (Batch of 2021). Currently, I am working under [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Student Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
+I am a Computer Science grad student at USC Viterbi (Batch of 2021). Currently, I am working under [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) as a Graduate Research Assistant affiliated to the [IRIS Computer Vision LAB](https://sites.usc.edu/iris-cvlab/) and the [Information Sciences Institute](https://www.isi.edu/). My project focuses on learning robust representations for defense against adversarial attacks in images. 
 
 I have previously worked as a Research Engineer in Samsung Research Institute, in the Advanced Technology Lab. I worked on three projects: Human-Object Interaction, AI Gallery and Iris-based Biometrics and Authentication. 
 
 I completed my Bachelors from IIIT Hyderabad in Computer Science and Engineering with an Honors from Computer Vision Institute of Technology under [Dr Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/). I have also been a Teaching Assistant for Computer Vision, Digital Signals Analysis and Statistical Methods in AI (Intro to Machine Learning).
 
-<em>I am actively looking for full-time Software Engineering and Research positions in ML, CV, AI and Full Stack starting in May 2021 - July 2021. </em>
+I have explored several fields and have worked on a lot of projects individually as well as in teams. I have experience in full-stack web development, machine learning research, computer vision tasks and have a strong understanding of the foundations in Computer Science. I love taking part in hackathons and engaging myself in projects that challenge me.
+
+<em>I am actively looking for full-time Software Engineering or Research positions in the US, ready to start in the Summer of 2021. </em>
 
 
 
