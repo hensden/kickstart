@@ -29,12 +29,16 @@ interests:
 
 education:
   courses:
-  - course: MS in Computer Science
+  - course: M.S. in Computer Science
     institution: University of Southern California, Los Angeles
     year: 2021
-  - course: Bachelor of Technology with Honors in Computer Science Engineering
+  - course: B.Tech. (Hons) in Computer Science & Engineering
     institution: International Institute of Information Technology, Hyderabad
     year: 2018
+  - course: High School
+    institution: Indian School Muscat, Muscat
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
