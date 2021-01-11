@@ -25,7 +25,7 @@ interests:
 - Machine Learning
 - Computer Vision
 - Artificial Intelligence
-- Data Science Research 
+- Data Science 
 
 education:
   courses:
