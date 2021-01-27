@@ -63,7 +63,7 @@ subtitle = ""
  css_class = ""
 
 +++
-- <strong>Courses at USC Viterbi</strong>: Algorithms, Deep Learning and its Applications, Multimedia Design, Database Systems, Computer Vision
+- <strong>Courses at USC Viterbi</strong>: Algorithms, Deep Learning and its Applications, Multimedia Design, Database Systems, Advanced Computer Vision, Web Search and Information Retrieval
 
 - <strong>Technical Courses at IIIT-H</strong>: Digital Logic Processing, IT Workshop, Data Structures, Algorithms, Linear Algebra, Abstract Algebra, Group Theory, Basic Electronic Circuits, Operating Systems, Computer Systems Organization, Object Oriented Programming, Formal Methods, Engineering System Design, Digital Signals, Artificial Intelligence, Advanced Networks, Distributed Systems, Database Systems, Statistical Methods in AI, Image Processing, Computer Vision and Deep Learning, Information Security, Natural Language Processing, Optimization Methods, Music and Mind 
 
